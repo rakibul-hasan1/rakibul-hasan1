@@ -1,4 +1,4 @@
-![I am rakibul-hasan1](https://github.com/rakibul-hasan1/rakibul-hasan1/blob/main/code.png)
+![I am rakibul-hasan1](Rakibul-Code.jpg)
 
 <h1 align="center">Hi 👋, I'm RAKIBUL HASAN(Rakib)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
